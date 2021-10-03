@@ -1,5 +1,5 @@
 # legit-repo
-really legit repo
+really legit reposit
 check 11
 check 22
 check 33
